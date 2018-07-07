@@ -16,7 +16,7 @@ public class SpringBootApp extends SpringBootServletInitializer{
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+System.out.println("main run");
 		SpringApplication.run(SpringBootApp.class, args);
 	}
 
